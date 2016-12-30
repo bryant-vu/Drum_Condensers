@@ -6,12 +6,9 @@ Pressure data captured in 1 minute intervals; stored in a csv file.
 
 Every 6 months, user is required to identify periods lasting 1hr or longer when pressure is <19.5 inches H2O.
 
-Print out descriptive statistics of periods found in 2).
+Print out descriptive statistics of low pressure periods.
 
-
-
-
-The following provides background information:
+#The following provides background information:
 
 1) Only condensers with condition D12.5 are included in program.
 
